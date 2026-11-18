@@ -12,7 +12,7 @@
 
 local CONFIG = {
     Key      = "141202",
-    MainURL  = "https://raw.githubusercontent.com/Mirohub14/AntarticaHub/refs/heads/main/MiroHub_Main.lua"
+    MainURL  = "https://raw.githubusercontent.com/Mirohub14/AntarticaHub/refs/heads/main/MiroHub_Main.lua",
     MainFile = "MiroHub_Main.lua",
     MaxTry   = 5,
     SaveKey  = true,
