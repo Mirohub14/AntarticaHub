@@ -12,7 +12,7 @@
 
 local CONFIG = {
     Key      = "141202",
-    MainURL  = "GANTI_DENGAN_URL_RAW_SCRIPT_UTAMA",   -- contoh: https://raw.githubusercontent.com/user/repo/main/MiroHub.lua
+    MainURL  = "https://raw.githubusercontent.com/Mirohub14/AntarticaHub/refs/heads/main/MiroHub_Main.lua"
     MainFile = "MiroHub_Main.lua",
     MaxTry   = 5,
     SaveKey  = true,
